@@ -1,14 +1,14 @@
-# 🎮 Memory Recall Game
+# 🎮 Memory Recall 
 Created by **Sam Ashenafi**
 
 ## 🧠 Project Outline
-**Memory Recall** is a two-player Arduino-based reflex and memory game. Each player tries to repeat LED sequences correctly. The game increases in difficulty and uses sound and graphics to enhance feedback.
+**Memory Recall** is a two-player memory game. Each player tries to repeat LED sequences correctly. The game increases in difficulty and uses sound and graphics to enhance feedback.
 
 ## 📝 Description
 - Players take turns repeating a flashing LED sequence.
 - Buttons on the Arduino board are used to input the sequence.
 - The game increases in speed and length of the sequence.
-- Players have **2 lives**, and the game ends when one player runs out.
+- Players have 2 lives, and the game ends when one player runs out of them.
 - Web-based p5.js graphics and Tone.js sound provide visual/audio feedback.
 - Interaction occurs through **Web Serial API**.
 
@@ -17,7 +17,7 @@ Created by **Sam Ashenafi**
 ![Game](https://github.com/user-attachments/assets/371e7e61-66d6-4c44-a4c6-3533cb2c6f90)
 
 ## 🎥 Video 
-[Game Video](https://youtube.com/shorts/LLTMP6zUqBE))
+[Game Video]((https://youtube.com/shorts/LLTMP6zUqBE))
 
 ## 💡 Components
 - 4 pushbuttons wired to pins 10–13
@@ -36,7 +36,7 @@ Created by **Sam Ashenafi**
 - Replace serial monitor with OLED or LCD
 
 ## 👨‍💻 What I Used
-- Arduino UNO R#
+- Arduino UNO R3
 - p5.js
 - Tone.js
 - Web Serial API
